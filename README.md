@@ -1,7 +1,7 @@
 # SlidePilot for iPadOS
 
 <p align="center">
-  <img src="images/logo.png"/>
+  <img width=120 src="images/appicon.png"/>
 </p>
 <p align="center">
   <strong>PDF Presentation Tool for iPadOS, perfect for LaTex Beamer presentations 🖥</strong>
