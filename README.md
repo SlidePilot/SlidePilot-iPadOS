@@ -4,7 +4,7 @@
   <img src="images/logo.png"/>
 </p>
 <p align="center">
-  <strong>Presentation Tool for macOS, perfect for LaTex Beamer presentations 🖥</strong>
+  <strong>PDF Presentation Tool for iPadOS, perfect for LaTex Beamer presentations 🖥</strong>
 </p>
 
 This is the issue, feature and feedback tracking repository for SlidePilot on iPadOS. If you want to report bugs, improvements, feature requests or anything else, feel free to open a new issue.
