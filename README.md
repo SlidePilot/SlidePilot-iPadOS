@@ -1,4 +1,4 @@
-# SlidePilot for iPadOS
+# SlidePilot for iPadOS (in development)
 
 <p align="center">
   <img width=120 src="images/appicon.png"/>
